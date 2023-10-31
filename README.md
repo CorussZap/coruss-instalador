@@ -9,3 +9,8 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd && cd ./install && sudo ./install_instancia
 ```
 
+CRÉDITOS:
+
+CANAL VEM FAZER
+
+https://www.youtube.com/@vemfazer
