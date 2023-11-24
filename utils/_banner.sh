@@ -23,7 +23,7 @@ print_banner() {
 
 printf "${CYAN_LIGHT}";
                                                                                                                                                          
-  printf "            \033[1;33m        © Cloud Win - https://cloudwin.com.br\n";
+  printf "            \033[1;33m        © Coruss - https://coruss.com.br\n";
   printf "${NC}";
 
   printf "\n"
